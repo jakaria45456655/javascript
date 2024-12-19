@@ -14,3 +14,6 @@ console.log(name);
 console.log(age);
 console.log(catagory);
 console.log(Home);
+
+const manu = [1,1,4,4,,7,4,84,54,124,];
+console,log(manu)
